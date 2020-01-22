@@ -1,0 +1,11 @@
+C:\Users\saari\Documents\GitHub\CSHARP\metodos\bin\Debug\netcoreapp3.1\metodos.exe
+C:\Users\saari\Documents\GitHub\CSHARP\metodos\bin\Debug\netcoreapp3.1\metodos.deps.json
+C:\Users\saari\Documents\GitHub\CSHARP\metodos\bin\Debug\netcoreapp3.1\metodos.runtimeconfig.json
+C:\Users\saari\Documents\GitHub\CSHARP\metodos\bin\Debug\netcoreapp3.1\metodos.runtimeconfig.dev.json
+C:\Users\saari\Documents\GitHub\CSHARP\metodos\bin\Debug\netcoreapp3.1\metodos.dll
+C:\Users\saari\Documents\GitHub\CSHARP\metodos\bin\Debug\netcoreapp3.1\metodos.pdb
+C:\Users\saari\Documents\GitHub\CSHARP\metodos\obj\Debug\netcoreapp3.1\metodos.csprojAssemblyReference.cache
+C:\Users\saari\Documents\GitHub\CSHARP\metodos\obj\Debug\netcoreapp3.1\metodos.AssemblyInfoInputs.cache
+C:\Users\saari\Documents\GitHub\CSHARP\metodos\obj\Debug\netcoreapp3.1\metodos.AssemblyInfo.cs
+C:\Users\saari\Documents\GitHub\CSHARP\metodos\obj\Debug\netcoreapp3.1\metodos.dll
+C:\Users\saari\Documents\GitHub\CSHARP\metodos\obj\Debug\netcoreapp3.1\metodos.pdb
