@@ -1,0 +1,11 @@
+C:\Users\saari\Documents\GitHub\CSHARP\cajeroAutomatico\bin\Debug\netcoreapp3.1\cajeroAutomatico.exe
+C:\Users\saari\Documents\GitHub\CSHARP\cajeroAutomatico\bin\Debug\netcoreapp3.1\cajeroAutomatico.deps.json
+C:\Users\saari\Documents\GitHub\CSHARP\cajeroAutomatico\bin\Debug\netcoreapp3.1\cajeroAutomatico.runtimeconfig.json
+C:\Users\saari\Documents\GitHub\CSHARP\cajeroAutomatico\bin\Debug\netcoreapp3.1\cajeroAutomatico.runtimeconfig.dev.json
+C:\Users\saari\Documents\GitHub\CSHARP\cajeroAutomatico\bin\Debug\netcoreapp3.1\cajeroAutomatico.dll
+C:\Users\saari\Documents\GitHub\CSHARP\cajeroAutomatico\bin\Debug\netcoreapp3.1\cajeroAutomatico.pdb
+C:\Users\saari\Documents\GitHub\CSHARP\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.csprojAssemblyReference.cache
+C:\Users\saari\Documents\GitHub\CSHARP\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.AssemblyInfoInputs.cache
+C:\Users\saari\Documents\GitHub\CSHARP\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.AssemblyInfo.cs
+C:\Users\saari\Documents\GitHub\CSHARP\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.dll
+C:\Users\saari\Documents\GitHub\CSHARP\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.pdb
