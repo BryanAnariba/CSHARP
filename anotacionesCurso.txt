@@ -1,0 +1,3 @@
+iniciar una aplicacion de consola
+    -> dotnet new console
+    -> dotnet run
