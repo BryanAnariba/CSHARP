@@ -1,0 +1,11 @@
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-throw\bin\Debug\netcoreapp3.1\exepciones-throw.exe
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-throw\bin\Debug\netcoreapp3.1\exepciones-throw.deps.json
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-throw\bin\Debug\netcoreapp3.1\exepciones-throw.runtimeconfig.json
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-throw\bin\Debug\netcoreapp3.1\exepciones-throw.runtimeconfig.dev.json
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-throw\bin\Debug\netcoreapp3.1\exepciones-throw.dll
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-throw\bin\Debug\netcoreapp3.1\exepciones-throw.pdb
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-throw\obj\Debug\netcoreapp3.1\exepciones-throw.csprojAssemblyReference.cache
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-throw\obj\Debug\netcoreapp3.1\exepciones-throw.AssemblyInfoInputs.cache
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-throw\obj\Debug\netcoreapp3.1\exepciones-throw.AssemblyInfo.cs
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-throw\obj\Debug\netcoreapp3.1\exepciones-throw.dll
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-throw\obj\Debug\netcoreapp3.1\exepciones-throw.pdb

@@ -1,0 +1,11 @@
+C:\Users\saari\Documents\GitHub\CSHARP\bucles\uso-do-while\bin\Debug\netcoreapp3.1\uso-do-while.exe
+C:\Users\saari\Documents\GitHub\CSHARP\bucles\uso-do-while\bin\Debug\netcoreapp3.1\uso-do-while.deps.json
+C:\Users\saari\Documents\GitHub\CSHARP\bucles\uso-do-while\bin\Debug\netcoreapp3.1\uso-do-while.runtimeconfig.json
+C:\Users\saari\Documents\GitHub\CSHARP\bucles\uso-do-while\bin\Debug\netcoreapp3.1\uso-do-while.runtimeconfig.dev.json
+C:\Users\saari\Documents\GitHub\CSHARP\bucles\uso-do-while\bin\Debug\netcoreapp3.1\uso-do-while.dll
+C:\Users\saari\Documents\GitHub\CSHARP\bucles\uso-do-while\bin\Debug\netcoreapp3.1\uso-do-while.pdb
+C:\Users\saari\Documents\GitHub\CSHARP\bucles\uso-do-while\obj\Debug\netcoreapp3.1\uso-do-while.csprojAssemblyReference.cache
+C:\Users\saari\Documents\GitHub\CSHARP\bucles\uso-do-while\obj\Debug\netcoreapp3.1\uso-do-while.AssemblyInfoInputs.cache
+C:\Users\saari\Documents\GitHub\CSHARP\bucles\uso-do-while\obj\Debug\netcoreapp3.1\uso-do-while.AssemblyInfo.cs
+C:\Users\saari\Documents\GitHub\CSHARP\bucles\uso-do-while\obj\Debug\netcoreapp3.1\uso-do-while.dll
+C:\Users\saari\Documents\GitHub\CSHARP\bucles\uso-do-while\obj\Debug\netcoreapp3.1\uso-do-while.pdb

@@ -1,0 +1,11 @@
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-csharp-2\bin\Debug\netcoreapp3.1\exepciones-csharp-2.exe
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-csharp-2\bin\Debug\netcoreapp3.1\exepciones-csharp-2.deps.json
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-csharp-2\bin\Debug\netcoreapp3.1\exepciones-csharp-2.runtimeconfig.json
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-csharp-2\bin\Debug\netcoreapp3.1\exepciones-csharp-2.runtimeconfig.dev.json
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-csharp-2\bin\Debug\netcoreapp3.1\exepciones-csharp-2.dll
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-csharp-2\bin\Debug\netcoreapp3.1\exepciones-csharp-2.pdb
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-csharp-2\obj\Debug\netcoreapp3.1\exepciones-csharp-2.csprojAssemblyReference.cache
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-csharp-2\obj\Debug\netcoreapp3.1\exepciones-csharp-2.AssemblyInfoInputs.cache
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-csharp-2\obj\Debug\netcoreapp3.1\exepciones-csharp-2.AssemblyInfo.cs
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-csharp-2\obj\Debug\netcoreapp3.1\exepciones-csharp-2.dll
+C:\Users\saari\Documents\GitHub\CSHARP\exepciones-csharp-2\obj\Debug\netcoreapp3.1\exepciones-csharp-2.pdb
