@@ -1,0 +1,11 @@
+C:\Users\saari\Documents\GitHub\CSHARP\POO\uso-getter-setter-construct\bin\Debug\netcoreapp3.1\uso-getter-setter-construct.exe
+C:\Users\saari\Documents\GitHub\CSHARP\POO\uso-getter-setter-construct\bin\Debug\netcoreapp3.1\uso-getter-setter-construct.deps.json
+C:\Users\saari\Documents\GitHub\CSHARP\POO\uso-getter-setter-construct\bin\Debug\netcoreapp3.1\uso-getter-setter-construct.runtimeconfig.json
+C:\Users\saari\Documents\GitHub\CSHARP\POO\uso-getter-setter-construct\bin\Debug\netcoreapp3.1\uso-getter-setter-construct.runtimeconfig.dev.json
+C:\Users\saari\Documents\GitHub\CSHARP\POO\uso-getter-setter-construct\bin\Debug\netcoreapp3.1\uso-getter-setter-construct.dll
+C:\Users\saari\Documents\GitHub\CSHARP\POO\uso-getter-setter-construct\bin\Debug\netcoreapp3.1\uso-getter-setter-construct.pdb
+C:\Users\saari\Documents\GitHub\CSHARP\POO\uso-getter-setter-construct\obj\Debug\netcoreapp3.1\uso-getter-setter-construct.csprojAssemblyReference.cache
+C:\Users\saari\Documents\GitHub\CSHARP\POO\uso-getter-setter-construct\obj\Debug\netcoreapp3.1\uso-getter-setter-construct.AssemblyInfoInputs.cache
+C:\Users\saari\Documents\GitHub\CSHARP\POO\uso-getter-setter-construct\obj\Debug\netcoreapp3.1\uso-getter-setter-construct.AssemblyInfo.cs
+C:\Users\saari\Documents\GitHub\CSHARP\POO\uso-getter-setter-construct\obj\Debug\netcoreapp3.1\uso-getter-setter-construct.dll
+C:\Users\saari\Documents\GitHub\CSHARP\POO\uso-getter-setter-construct\obj\Debug\netcoreapp3.1\uso-getter-setter-construct.pdb

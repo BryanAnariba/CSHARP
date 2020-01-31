@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "uso-getter-setter-construct/1.0.0": {
+        "runtime": {
+          "uso-getter-setter-construct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uso-getter-setter-construct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
