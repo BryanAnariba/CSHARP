@@ -1,3 +1,9 @@
 iniciar una aplicacion de consola
-    -> dotnet new console
+    -> dotnet new console -o nombre-app
+    -> dotnet restore , instala dependencias y repara
     -> dotnet run
+
+iniciar una aplicacion web
+    -> dotnet new mvc -au None -o nombre-app
+    -> dotnet restore
+    -> dotne run
