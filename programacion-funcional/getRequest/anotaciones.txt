@@ -1,4 +1,0 @@
-using System.Net; -> para jalar datos de un server remote
-
-
-para transformar a json los datos -> dotnet add package Newtonsoft.Json , using Newtonsoft.Json;
