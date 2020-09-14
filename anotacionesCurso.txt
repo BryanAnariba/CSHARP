@@ -1,9 +1,14 @@
-iniciar una aplicacion de consola
-    -> dotnet new console -o nombre-app
-    -> dotnet restore , instala dependencias y repara
-    -> dotnet run
+En caso de Usar VSCode
+	iniciar una aplicacion de consola
+    		-> dotnet new console -o nombre-app
+    		-> dotnet restore , instala dependencias y repara
+	    	-> dotnet run
 
-iniciar una aplicacion web
-    -> dotnet new mvc -au None -o nombre-app
-    -> dotnet restore
-    -> dotne run
+	iniciar una aplicacion web
+    		-> dotnet new mvc -au None -o nombre-app
+    		-> dotnet restore
+    		-> dotne run
+
+
+	Repositorio por defecto: esto pueda que nos sea muy util para subir un codigo a azure por ejemplo
+                 C:\Users\Ariel Anariba\source\repos 
