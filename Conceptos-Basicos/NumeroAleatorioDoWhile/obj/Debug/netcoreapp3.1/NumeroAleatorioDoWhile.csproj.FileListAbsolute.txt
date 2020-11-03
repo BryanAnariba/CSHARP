@@ -1,0 +1,13 @@
+C:\Users\Ariel Anariba\source\repos\NumeroAleatorioDoWhile\bin\Debug\netcoreapp3.1\NumeroAleatorioDoWhile.exe
+C:\Users\Ariel Anariba\source\repos\NumeroAleatorioDoWhile\bin\Debug\netcoreapp3.1\NumeroAleatorioDoWhile.deps.json
+C:\Users\Ariel Anariba\source\repos\NumeroAleatorioDoWhile\bin\Debug\netcoreapp3.1\NumeroAleatorioDoWhile.runtimeconfig.json
+C:\Users\Ariel Anariba\source\repos\NumeroAleatorioDoWhile\bin\Debug\netcoreapp3.1\NumeroAleatorioDoWhile.runtimeconfig.dev.json
+C:\Users\Ariel Anariba\source\repos\NumeroAleatorioDoWhile\bin\Debug\netcoreapp3.1\NumeroAleatorioDoWhile.dll
+C:\Users\Ariel Anariba\source\repos\NumeroAleatorioDoWhile\bin\Debug\netcoreapp3.1\NumeroAleatorioDoWhile.pdb
+C:\Users\Ariel Anariba\source\repos\NumeroAleatorioDoWhile\obj\Debug\netcoreapp3.1\NumeroAleatorioDoWhile.csprojAssemblyReference.cache
+C:\Users\Ariel Anariba\source\repos\NumeroAleatorioDoWhile\obj\Debug\netcoreapp3.1\NumeroAleatorioDoWhile.AssemblyInfoInputs.cache
+C:\Users\Ariel Anariba\source\repos\NumeroAleatorioDoWhile\obj\Debug\netcoreapp3.1\NumeroAleatorioDoWhile.AssemblyInfo.cs
+C:\Users\Ariel Anariba\source\repos\NumeroAleatorioDoWhile\obj\Debug\netcoreapp3.1\NumeroAleatorioDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Anariba\source\repos\NumeroAleatorioDoWhile\obj\Debug\netcoreapp3.1\NumeroAleatorioDoWhile.dll
+C:\Users\Ariel Anariba\source\repos\NumeroAleatorioDoWhile\obj\Debug\netcoreapp3.1\NumeroAleatorioDoWhile.pdb
+C:\Users\Ariel Anariba\source\repos\NumeroAleatorioDoWhile\obj\Debug\netcoreapp3.1\NumeroAleatorioDoWhile.genruntimeconfig.cache

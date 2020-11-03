@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExcepcionesParte3ConflictoVariasExecpciones/1.0.0": {
+        "runtime": {
+          "ExcepcionesParte3ConflictoVariasExecpciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExcepcionesParte3ConflictoVariasExecpciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

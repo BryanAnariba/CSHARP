@@ -1,0 +1,13 @@
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\uso-constantes\bin\Debug\netcoreapp3.1\uso-constantes.exe
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\uso-constantes\bin\Debug\netcoreapp3.1\uso-constantes.deps.json
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\uso-constantes\bin\Debug\netcoreapp3.1\uso-constantes.runtimeconfig.json
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\uso-constantes\bin\Debug\netcoreapp3.1\uso-constantes.runtimeconfig.dev.json
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\uso-constantes\bin\Debug\netcoreapp3.1\uso-constantes.dll
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\uso-constantes\bin\Debug\netcoreapp3.1\uso-constantes.pdb
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\uso-constantes\obj\Debug\netcoreapp3.1\uso-constantes.csprojAssemblyReference.cache
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\uso-constantes\obj\Debug\netcoreapp3.1\uso-constantes.AssemblyInfoInputs.cache
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\uso-constantes\obj\Debug\netcoreapp3.1\uso-constantes.AssemblyInfo.cs
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\uso-constantes\obj\Debug\netcoreapp3.1\uso-constantes.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\uso-constantes\obj\Debug\netcoreapp3.1\uso-constantes.dll
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\uso-constantes\obj\Debug\netcoreapp3.1\uso-constantes.pdb
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\uso-constantes\obj\Debug\netcoreapp3.1\uso-constantes.genruntimeconfig.cache

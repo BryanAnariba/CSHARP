@@ -1,0 +1,13 @@
+C:\Users\Ariel Anariba\source\repos\ExecpcionesParteFinalThrow\bin\Debug\netcoreapp3.1\ExecpcionesParteFinalThrow.exe
+C:\Users\Ariel Anariba\source\repos\ExecpcionesParteFinalThrow\bin\Debug\netcoreapp3.1\ExecpcionesParteFinalThrow.deps.json
+C:\Users\Ariel Anariba\source\repos\ExecpcionesParteFinalThrow\bin\Debug\netcoreapp3.1\ExecpcionesParteFinalThrow.runtimeconfig.json
+C:\Users\Ariel Anariba\source\repos\ExecpcionesParteFinalThrow\bin\Debug\netcoreapp3.1\ExecpcionesParteFinalThrow.runtimeconfig.dev.json
+C:\Users\Ariel Anariba\source\repos\ExecpcionesParteFinalThrow\bin\Debug\netcoreapp3.1\ExecpcionesParteFinalThrow.dll
+C:\Users\Ariel Anariba\source\repos\ExecpcionesParteFinalThrow\bin\Debug\netcoreapp3.1\ExecpcionesParteFinalThrow.pdb
+C:\Users\Ariel Anariba\source\repos\ExecpcionesParteFinalThrow\obj\Debug\netcoreapp3.1\ExecpcionesParteFinalThrow.csprojAssemblyReference.cache
+C:\Users\Ariel Anariba\source\repos\ExecpcionesParteFinalThrow\obj\Debug\netcoreapp3.1\ExecpcionesParteFinalThrow.AssemblyInfoInputs.cache
+C:\Users\Ariel Anariba\source\repos\ExecpcionesParteFinalThrow\obj\Debug\netcoreapp3.1\ExecpcionesParteFinalThrow.AssemblyInfo.cs
+C:\Users\Ariel Anariba\source\repos\ExecpcionesParteFinalThrow\obj\Debug\netcoreapp3.1\ExecpcionesParteFinalThrow.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Anariba\source\repos\ExecpcionesParteFinalThrow\obj\Debug\netcoreapp3.1\ExecpcionesParteFinalThrow.dll
+C:\Users\Ariel Anariba\source\repos\ExecpcionesParteFinalThrow\obj\Debug\netcoreapp3.1\ExecpcionesParteFinalThrow.pdb
+C:\Users\Ariel Anariba\source\repos\ExecpcionesParteFinalThrow\obj\Debug\netcoreapp3.1\ExecpcionesParteFinalThrow.genruntimeconfig.cache

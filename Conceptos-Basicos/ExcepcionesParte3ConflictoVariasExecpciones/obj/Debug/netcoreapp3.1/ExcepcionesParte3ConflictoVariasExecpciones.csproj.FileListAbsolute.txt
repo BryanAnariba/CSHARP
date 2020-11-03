@@ -1,0 +1,13 @@
+C:\Users\Ariel Anariba\source\repos\ExcepcionesParte3ConflictoVariasExecpciones\bin\Debug\netcoreapp3.1\ExcepcionesParte3ConflictoVariasExecpciones.exe
+C:\Users\Ariel Anariba\source\repos\ExcepcionesParte3ConflictoVariasExecpciones\bin\Debug\netcoreapp3.1\ExcepcionesParte3ConflictoVariasExecpciones.deps.json
+C:\Users\Ariel Anariba\source\repos\ExcepcionesParte3ConflictoVariasExecpciones\bin\Debug\netcoreapp3.1\ExcepcionesParte3ConflictoVariasExecpciones.runtimeconfig.json
+C:\Users\Ariel Anariba\source\repos\ExcepcionesParte3ConflictoVariasExecpciones\bin\Debug\netcoreapp3.1\ExcepcionesParte3ConflictoVariasExecpciones.runtimeconfig.dev.json
+C:\Users\Ariel Anariba\source\repos\ExcepcionesParte3ConflictoVariasExecpciones\bin\Debug\netcoreapp3.1\ExcepcionesParte3ConflictoVariasExecpciones.dll
+C:\Users\Ariel Anariba\source\repos\ExcepcionesParte3ConflictoVariasExecpciones\bin\Debug\netcoreapp3.1\ExcepcionesParte3ConflictoVariasExecpciones.pdb
+C:\Users\Ariel Anariba\source\repos\ExcepcionesParte3ConflictoVariasExecpciones\obj\Debug\netcoreapp3.1\ExcepcionesParte3ConflictoVariasExecpciones.csprojAssemblyReference.cache
+C:\Users\Ariel Anariba\source\repos\ExcepcionesParte3ConflictoVariasExecpciones\obj\Debug\netcoreapp3.1\ExcepcionesParte3ConflictoVariasExecpciones.AssemblyInfoInputs.cache
+C:\Users\Ariel Anariba\source\repos\ExcepcionesParte3ConflictoVariasExecpciones\obj\Debug\netcoreapp3.1\ExcepcionesParte3ConflictoVariasExecpciones.AssemblyInfo.cs
+C:\Users\Ariel Anariba\source\repos\ExcepcionesParte3ConflictoVariasExecpciones\obj\Debug\netcoreapp3.1\ExcepcionesParte3ConflictoVariasExecpciones.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Anariba\source\repos\ExcepcionesParte3ConflictoVariasExecpciones\obj\Debug\netcoreapp3.1\ExcepcionesParte3ConflictoVariasExecpciones.dll
+C:\Users\Ariel Anariba\source\repos\ExcepcionesParte3ConflictoVariasExecpciones\obj\Debug\netcoreapp3.1\ExcepcionesParte3ConflictoVariasExecpciones.pdb
+C:\Users\Ariel Anariba\source\repos\ExcepcionesParte3ConflictoVariasExecpciones\obj\Debug\netcoreapp3.1\ExcepcionesParte3ConflictoVariasExecpciones.genruntimeconfig.cache

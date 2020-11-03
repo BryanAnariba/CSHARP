@@ -1,0 +1,13 @@
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\MetodosOrFunciones\bin\Debug\netcoreapp3.1\MetodosOrFunciones.exe
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\MetodosOrFunciones\bin\Debug\netcoreapp3.1\MetodosOrFunciones.deps.json
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\MetodosOrFunciones\bin\Debug\netcoreapp3.1\MetodosOrFunciones.runtimeconfig.json
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\MetodosOrFunciones\bin\Debug\netcoreapp3.1\MetodosOrFunciones.runtimeconfig.dev.json
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\MetodosOrFunciones\bin\Debug\netcoreapp3.1\MetodosOrFunciones.dll
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\MetodosOrFunciones\bin\Debug\netcoreapp3.1\MetodosOrFunciones.pdb
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\MetodosOrFunciones\obj\Debug\netcoreapp3.1\MetodosOrFunciones.csprojAssemblyReference.cache
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\MetodosOrFunciones\obj\Debug\netcoreapp3.1\MetodosOrFunciones.AssemblyInfoInputs.cache
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\MetodosOrFunciones\obj\Debug\netcoreapp3.1\MetodosOrFunciones.AssemblyInfo.cs
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\MetodosOrFunciones\obj\Debug\netcoreapp3.1\MetodosOrFunciones.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\MetodosOrFunciones\obj\Debug\netcoreapp3.1\MetodosOrFunciones.dll
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\MetodosOrFunciones\obj\Debug\netcoreapp3.1\MetodosOrFunciones.pdb
+C:\Users\Ariel Anariba\source\repos\sintaxis-c#\MetodosOrFunciones\obj\Debug\netcoreapp3.1\MetodosOrFunciones.genruntimeconfig.cache

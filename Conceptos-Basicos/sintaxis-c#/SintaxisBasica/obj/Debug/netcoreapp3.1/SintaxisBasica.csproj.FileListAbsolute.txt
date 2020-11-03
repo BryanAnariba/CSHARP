@@ -1,0 +1,13 @@
+C:\Users\Ariel Anariba\Documents\GitHub\VisualStudio\sintaxis-c#\SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.exe
+C:\Users\Ariel Anariba\Documents\GitHub\VisualStudio\sintaxis-c#\SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.deps.json
+C:\Users\Ariel Anariba\Documents\GitHub\VisualStudio\sintaxis-c#\SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.runtimeconfig.json
+C:\Users\Ariel Anariba\Documents\GitHub\VisualStudio\sintaxis-c#\SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.runtimeconfig.dev.json
+C:\Users\Ariel Anariba\Documents\GitHub\VisualStudio\sintaxis-c#\SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.dll
+C:\Users\Ariel Anariba\Documents\GitHub\VisualStudio\sintaxis-c#\SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.pdb
+C:\Users\Ariel Anariba\Documents\GitHub\VisualStudio\sintaxis-c#\SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.csprojAssemblyReference.cache
+C:\Users\Ariel Anariba\Documents\GitHub\VisualStudio\sintaxis-c#\SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.AssemblyInfoInputs.cache
+C:\Users\Ariel Anariba\Documents\GitHub\VisualStudio\sintaxis-c#\SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.AssemblyInfo.cs
+C:\Users\Ariel Anariba\Documents\GitHub\VisualStudio\sintaxis-c#\SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Anariba\Documents\GitHub\VisualStudio\sintaxis-c#\SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.dll
+C:\Users\Ariel Anariba\Documents\GitHub\VisualStudio\sintaxis-c#\SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.pdb
+C:\Users\Ariel Anariba\Documents\GitHub\VisualStudio\sintaxis-c#\SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.genruntimeconfig.cache

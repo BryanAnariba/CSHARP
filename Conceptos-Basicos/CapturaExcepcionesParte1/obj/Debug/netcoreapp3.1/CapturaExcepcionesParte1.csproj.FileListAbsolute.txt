@@ -1,0 +1,13 @@
+C:\Users\Ariel Anariba\source\repos\CapturaExcepcionesParte1\bin\Debug\netcoreapp3.1\CapturaExcepcionesParte1.exe
+C:\Users\Ariel Anariba\source\repos\CapturaExcepcionesParte1\bin\Debug\netcoreapp3.1\CapturaExcepcionesParte1.deps.json
+C:\Users\Ariel Anariba\source\repos\CapturaExcepcionesParte1\bin\Debug\netcoreapp3.1\CapturaExcepcionesParte1.runtimeconfig.json
+C:\Users\Ariel Anariba\source\repos\CapturaExcepcionesParte1\bin\Debug\netcoreapp3.1\CapturaExcepcionesParte1.runtimeconfig.dev.json
+C:\Users\Ariel Anariba\source\repos\CapturaExcepcionesParte1\bin\Debug\netcoreapp3.1\CapturaExcepcionesParte1.dll
+C:\Users\Ariel Anariba\source\repos\CapturaExcepcionesParte1\bin\Debug\netcoreapp3.1\CapturaExcepcionesParte1.pdb
+C:\Users\Ariel Anariba\source\repos\CapturaExcepcionesParte1\obj\Debug\netcoreapp3.1\CapturaExcepcionesParte1.csprojAssemblyReference.cache
+C:\Users\Ariel Anariba\source\repos\CapturaExcepcionesParte1\obj\Debug\netcoreapp3.1\CapturaExcepcionesParte1.AssemblyInfoInputs.cache
+C:\Users\Ariel Anariba\source\repos\CapturaExcepcionesParte1\obj\Debug\netcoreapp3.1\CapturaExcepcionesParte1.AssemblyInfo.cs
+C:\Users\Ariel Anariba\source\repos\CapturaExcepcionesParte1\obj\Debug\netcoreapp3.1\CapturaExcepcionesParte1.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Anariba\source\repos\CapturaExcepcionesParte1\obj\Debug\netcoreapp3.1\CapturaExcepcionesParte1.dll
+C:\Users\Ariel Anariba\source\repos\CapturaExcepcionesParte1\obj\Debug\netcoreapp3.1\CapturaExcepcionesParte1.pdb
+C:\Users\Ariel Anariba\source\repos\CapturaExcepcionesParte1\obj\Debug\netcoreapp3.1\CapturaExcepcionesParte1.genruntimeconfig.cache

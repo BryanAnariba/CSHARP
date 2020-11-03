@@ -1,0 +1,13 @@
+C:\Users\Ariel Anariba\source\repos\ExecpcioesParte2CapturaExcepcionGenerica\bin\Debug\netcoreapp3.1\ExecpcioesParte2CapturaExcepcionGenerica.exe
+C:\Users\Ariel Anariba\source\repos\ExecpcioesParte2CapturaExcepcionGenerica\bin\Debug\netcoreapp3.1\ExecpcioesParte2CapturaExcepcionGenerica.deps.json
+C:\Users\Ariel Anariba\source\repos\ExecpcioesParte2CapturaExcepcionGenerica\bin\Debug\netcoreapp3.1\ExecpcioesParte2CapturaExcepcionGenerica.runtimeconfig.json
+C:\Users\Ariel Anariba\source\repos\ExecpcioesParte2CapturaExcepcionGenerica\bin\Debug\netcoreapp3.1\ExecpcioesParte2CapturaExcepcionGenerica.runtimeconfig.dev.json
+C:\Users\Ariel Anariba\source\repos\ExecpcioesParte2CapturaExcepcionGenerica\bin\Debug\netcoreapp3.1\ExecpcioesParte2CapturaExcepcionGenerica.dll
+C:\Users\Ariel Anariba\source\repos\ExecpcioesParte2CapturaExcepcionGenerica\bin\Debug\netcoreapp3.1\ExecpcioesParte2CapturaExcepcionGenerica.pdb
+C:\Users\Ariel Anariba\source\repos\ExecpcioesParte2CapturaExcepcionGenerica\obj\Debug\netcoreapp3.1\ExecpcioesParte2CapturaExcepcionGenerica.csprojAssemblyReference.cache
+C:\Users\Ariel Anariba\source\repos\ExecpcioesParte2CapturaExcepcionGenerica\obj\Debug\netcoreapp3.1\ExecpcioesParte2CapturaExcepcionGenerica.AssemblyInfoInputs.cache
+C:\Users\Ariel Anariba\source\repos\ExecpcioesParte2CapturaExcepcionGenerica\obj\Debug\netcoreapp3.1\ExecpcioesParte2CapturaExcepcionGenerica.AssemblyInfo.cs
+C:\Users\Ariel Anariba\source\repos\ExecpcioesParte2CapturaExcepcionGenerica\obj\Debug\netcoreapp3.1\ExecpcioesParte2CapturaExcepcionGenerica.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Anariba\source\repos\ExecpcioesParte2CapturaExcepcionGenerica\obj\Debug\netcoreapp3.1\ExecpcioesParte2CapturaExcepcionGenerica.dll
+C:\Users\Ariel Anariba\source\repos\ExecpcioesParte2CapturaExcepcionGenerica\obj\Debug\netcoreapp3.1\ExecpcioesParte2CapturaExcepcionGenerica.pdb
+C:\Users\Ariel Anariba\source\repos\ExecpcioesParte2CapturaExcepcionGenerica\obj\Debug\netcoreapp3.1\ExecpcioesParte2CapturaExcepcionGenerica.genruntimeconfig.cache

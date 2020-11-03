@@ -1,0 +1,13 @@
+C:\Users\Ariel Anariba\source\repos\EstructuraSwitch\bin\Debug\netcoreapp3.1\SwitchAndWhile.exe
+C:\Users\Ariel Anariba\source\repos\EstructuraSwitch\bin\Debug\netcoreapp3.1\SwitchAndWhile.deps.json
+C:\Users\Ariel Anariba\source\repos\EstructuraSwitch\bin\Debug\netcoreapp3.1\SwitchAndWhile.runtimeconfig.json
+C:\Users\Ariel Anariba\source\repos\EstructuraSwitch\bin\Debug\netcoreapp3.1\SwitchAndWhile.runtimeconfig.dev.json
+C:\Users\Ariel Anariba\source\repos\EstructuraSwitch\bin\Debug\netcoreapp3.1\SwitchAndWhile.dll
+C:\Users\Ariel Anariba\source\repos\EstructuraSwitch\bin\Debug\netcoreapp3.1\SwitchAndWhile.pdb
+C:\Users\Ariel Anariba\source\repos\EstructuraSwitch\obj\Debug\netcoreapp3.1\SwitchAndWhile.csprojAssemblyReference.cache
+C:\Users\Ariel Anariba\source\repos\EstructuraSwitch\obj\Debug\netcoreapp3.1\SwitchAndWhile.AssemblyInfoInputs.cache
+C:\Users\Ariel Anariba\source\repos\EstructuraSwitch\obj\Debug\netcoreapp3.1\SwitchAndWhile.AssemblyInfo.cs
+C:\Users\Ariel Anariba\source\repos\EstructuraSwitch\obj\Debug\netcoreapp3.1\SwitchAndWhile.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Anariba\source\repos\EstructuraSwitch\obj\Debug\netcoreapp3.1\SwitchAndWhile.dll
+C:\Users\Ariel Anariba\source\repos\EstructuraSwitch\obj\Debug\netcoreapp3.1\SwitchAndWhile.pdb
+C:\Users\Ariel Anariba\source\repos\EstructuraSwitch\obj\Debug\netcoreapp3.1\SwitchAndWhile.genruntimeconfig.cache
